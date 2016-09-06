@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Al Wickman -- yaquiknow@yahoo.com -- n/a
 
 # THANKS
 
